@@ -1,0 +1,13 @@
+{
+  "name": "devonthink-plus",
+  "version": "0.1.0",
+  "description": "Supplementary MCP for DEVONthink — search with excerpts, chunked content retrieval, group context loading",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.5.0"
+  }
+}
